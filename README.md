@@ -2,5 +2,5 @@
 
 <h1>System Requirements</h1>
 - <strong> OS: Windows (Other soon)</strong>
-- <strong> WinRAR (Download [here](https://winrar.de/downld.php))</strong>
+- <strong> WinRAR -> Download [here](https://winrar.de/downld.php)</strong>
 
