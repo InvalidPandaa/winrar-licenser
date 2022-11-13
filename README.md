@@ -2,7 +2,7 @@
   <a href="https://github.com/InvalidPandaa/winrar-licenser"><img src="https://upload.invalidpanda.dev/r/winrar-licenser.png" />
 </p>
   
-  <h2> <div align="center"><b> Modified Spotify Client for Windows </b></div> </h2>
+  <h2> <div align="center"><b> WinRAR Licenser 🔑 </b></div> </h2>
 
 
 **(!) DISCLAIMER: I'M NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY USING THIS TOOL! IF YOU'RE USING THIS TOOL WRONG, ITS YOUR FAULT! (!)** 
