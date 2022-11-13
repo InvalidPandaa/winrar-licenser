@@ -1,3 +1,8 @@
+<p algin="center">
+  <img source="https://upload.invalidpanda.dev/r/winrar-licenser.png" />
+</p>
+
+
 **(!) DISCLAIMER: I'M NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY USING THIS TOOL! IF YOU'RE USING THIS TOOL WRONG, ITS YOUR FAULT! (!)** 
 
 <h1>System Requirements</h1>
