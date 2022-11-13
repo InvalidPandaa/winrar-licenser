@@ -1,4 +1,4 @@
-  <p algin="center">
+<p algin="center">
   <a href="https://github.com/InvalidPandaa/winrar-licenser"><img src="https://upload.invalidpanda.dev/r/winrar-licenser.png" />
 </p>
   
